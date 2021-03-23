@@ -72,7 +72,7 @@
             font-weight: 300;
             text-align: center;
         }
-        &__link{
+        &__link {
             display: block;
             margin-top: 17px;
             color: $main-color;
@@ -86,7 +86,7 @@
             }
         }
         hr {
-            color: #e8e8e8;
+            background-color: #e8e8e8;
             margin-top: 19px;
             margin-bottom: 21px;
             border-bottom: none;
@@ -167,6 +167,5 @@
                 color: $main-color;
             }
         }
-    
     }
 }
